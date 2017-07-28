@@ -1,0 +1,14 @@
+com/gamesys/exception/GameSysError.class
+com/gamesys/controller/SpaceTravelController.class
+com/gamesys/service/SpaceTravelPlanService.class
+com/gamesys/entity/SpaceTravelResponse.class
+com/gamesys/service/SpaceTravelService.class
+com/gamesys/entity/SpaceTravel.class
+com/gamesys/validator/SpaceTravelValidator.class
+com/gamesys/exception/SpaceTravelException.class
+com/gamesys/entity/SpaceTravelFlight.class
+com/gamesys/service/SpaceTravelInterface.class
+com/gamesys/exception/ErrorCodes.class
+com/gamesys/service/EnvironmentReader.class
+com/gamesys/service/SpaceTravelPlanSaveService.class
+com/gamesys/entity/SpaceTravelPlan.class
